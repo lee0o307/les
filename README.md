@@ -77,7 +77,7 @@
     <h2>📅 Nos objectifs</h2>
     <p>Participer à des tournois hebdomadaires, gravir les classements, et construire une communauté solide.</p>
 
-    <a href="https://discord.gg/ton-lien-invite" class="btn">🚀 Postule sur notre Discord !</a>
+    <a href="https://discord.gg/vYmRvuTs" class="btn">🚀 Postule sur notre Discord !</a>
   </div>
 
 </body>
